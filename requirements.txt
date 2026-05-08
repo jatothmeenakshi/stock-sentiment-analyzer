@@ -1,0 +1,5 @@
+streamlit
+newsapi-python
+textblob
+plotly
+pandas
